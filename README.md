@@ -1,7 +1,7 @@
 # Natural-Language-Processing
-The four projects below were all part of the University of Michigan's graduate-level course -- EECS 595: Intro to Natural Language Processing.
+The 4 projects below were all part of the University of Michigan's EECS 595: Intro to NLP.
 
-All the assignments were in written in Python, but in most cases restricted our use of libraries like scikit-learn and NLTK and required the implementation of functions from from scratch.
+All the assignments were in written in Python, but in most cases the use of libraries like scikit-learn and NLTK were restricted and it was required to implement complex functions from scratch.
 
 For each assignment, I've organized my code into well-commented and easily-readable Jupyter notebooks. All the relevant files (including datasets used, .py Python scripts, and .txt result summaries) can be downloaded through each project's .zip file.
 
