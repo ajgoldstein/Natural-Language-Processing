@@ -2,11 +2,11 @@
 The four projects below were all part of the University of Michigan's graduate-level course -- EECS 595: Intro to Natural Language Processing. For more information on the class, the syllabus can be found above, along with a PDF describing of the assignments.
 
 ## Assignment #1
-### Sentence Boundary Detection
+### 1) Sentence Boundary Detection
 -> Major Task: write a Python program SBD.py that detects sentence boundaries in text.
 -> Result: built a program that predicts if a period (.) is the end of a sentence or not with 99.2% accuracy.
 
-### Collocation Identification
+### 2) Collocation Identification
 -> Major Task: write a Python program Collocations.py that identifies collocations in text.
 -> Result: built a program that implements the chi-square and the pointwise mutual information (PMI) measures of association for the identification of bigram collocations.
 
