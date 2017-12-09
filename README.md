@@ -1,5 +1,5 @@
 # Natural-Language-Processing
-The four projects below were all part of the University of Michigan's EECS 595: Intro to Natural Language Processing. The course syllabus can be found above, along with a PDF describing each of the assignments below.
+The four projects below were all part of the University of Michigan's EECS 595: Intro to Natural Language Processing. The course syllabus can be found above, along with a PDF describing each of the assignments.
 
 ## Assignments Overview
 
