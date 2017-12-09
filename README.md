@@ -3,9 +3,9 @@ The four projects below were all part of the University of Michigan's EECS 595: 
 
 ## Assignments Overview
 
-All the assignments were in written in Python, but in most cases the use of libraries like scikit-learn and NLTK were restricted and it was required to implement complex functions from scratch.
+All the assignments were in written in Python, but in most cases the use of libraries like scikit-learn and NLTK were restricted and it was <b>required to implement complex functions from scratch</b>.
 
-For each assignment, I've organized my code into well-commented and easily-readable Jupyter notebooks. All the relevant files (including datasets used, .py Python scripts, and .txt result summaries) can be downloaded through each project's .zip file.
+For each assignment, I've organized my code into <b>well-commented and easily-readable Jupyter notebooks</b>. Additionally, all the relevant files (including datasets used, .py Python scripts, and .txt result summaries) can be downloaded through each project's .zip file.
 
 ## Assignment #1
 ### 1) Sentence Boundary Detection
