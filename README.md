@@ -1,11 +1,11 @@
 # Natural-Language-Processing
-The 4 projects below were all part of the University of Michigan's EECS 595: Intro to NLP.
+The four projects below were all part of the University of Michigan's EECS 595: Intro to Natural Language Processing. The course syllabus can be found above, along with a PDF describing each of the assignments below.
+
+## Assignments Overview
 
 All the assignments were in written in Python, but in most cases the use of libraries like scikit-learn and NLTK were restricted and it was required to implement complex functions from scratch.
 
 For each assignment, I've organized my code into well-commented and easily-readable Jupyter notebooks. All the relevant files (including datasets used, .py Python scripts, and .txt result summaries) can be downloaded through each project's .zip file.
-
-For more information on the class, the syllabus can be found above, along with a PDF describing each of the assignments.
 
 ## Assignment #1
 ### 1) Sentence Boundary Detection
