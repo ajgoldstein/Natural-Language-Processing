@@ -1,5 +1,11 @@
 # Natural-Language-Processing
-The four projects below were all part of the University of Michigan's graduate-level course -- EECS 595: Intro to Natural Language Processing. For more information on the class, the syllabus can be found above, along with a PDF describing of the assignments.
+The four projects below were all part of the University of Michigan's graduate-level course -- EECS 595: Intro to Natural Language Processing.
+
+All the assignments were in written in Python, but in most cases restricted our use of libraries like scikit-learn and NLTK and required the implementation of functions from from scratch.
+
+For each assignment, I've organized my code into well-commented and easily-readable Jupyter notebooks. All the relevant files (including datasets used, .py Python scripts, and .txt result summaries) can be downloaded through each project's .zip file.
+
+For more information on the class, the syllabus can be found above, along with a PDF describing each of the assignments.
 
 ## Assignment #1
 ### 1) Sentence Boundary Detection
@@ -10,9 +16,10 @@ The four projects below were all part of the University of Michigan's graduate-l
 ### 2) Collocation Identification
 -> <b>Major Task</b>: write a Python program Collocations.py that identifies collocations in text.
 
-<b>-> Result</b>: built a program that implements the chi-square and the pointwise mutual information (PMI) measures of association for the identification of bigram collocations.
+-> <b>Result</b>: built a program that implements the chi-square and the pointwise mutual information (PMI) measures of association for the identification of bigram collocations.
 
 ## Assignment #2
+
 
 ### List of Topics Covered
 - Brief overview of English linguistics
