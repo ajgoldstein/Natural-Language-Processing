@@ -9,9 +9,9 @@ For each assignment, I've organized my code into <b>well-commented and easily-re
 
 ## Assignment #1
 ### 1) Sentence Boundary Detection
-* <b>Major Task</b>: write a Python program SBD.py that detects sentence boundaries in text.
+* Major Task: write a Python program SBD.py that detects sentence boundaries in text.
 
-* <b>Result</b></u>: built a program that predicts if a period (.) is the end of a sentence or not with 99.2% accuracy.
+* Result: built a program that predicts if a period (.) is the end of a sentence or not with 99.2% accuracy.
 
 ### 2) Collocation Identification
 * <b>Major Task</b>: write a Python program Collocations.py that identifies collocations in text.
