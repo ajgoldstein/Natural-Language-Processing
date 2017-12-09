@@ -3,7 +3,7 @@ The four projects below were all part of the University of Michigan's graduate-l
 
 ## Assignment #1
 ### 1) Sentence Boundary Detection
--> Major Task: write a Python program SBD.py that detects sentence boundaries in text.
+-> <b>Major Task</b>: write a Python program SBD.py that detects sentence boundaries in text.
 -> Result: built a program that predicts if a period (.) is the end of a sentence or not with 99.2% accuracy.
 
 ### 2) Collocation Identification
